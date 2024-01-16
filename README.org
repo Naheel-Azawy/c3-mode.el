@@ -1,0 +1,6 @@
+
+* c3-mode.el
+Emacs major mode for the [[https://c3-lang.org/][C3]] programming language.
+
+** Licenses
+GPL-3
